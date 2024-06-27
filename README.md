@@ -35,6 +35,8 @@ PairProAI is a pair programming application that leverages AI to assist in vario
 - **Debug Your Code:** Get help with debugging by providing error messages.
 
 ## Live Demo
+![](https://github.com/shubhendu-ghosh-DS/PairProAI/blob/main/img/Screenshot%202024-06-27%20095509.png?raw=true)
+
 You can try out PairProAI by visiting the live demo hosted on Hugging Face Spaces:
 
 [PairProAI Live Demo](https://shubhendu-ghosh-pairproai.hf.space)
@@ -82,6 +84,9 @@ To install and run the PairProAI app locally, follow these steps:
 1. Paste the code snippet you want to work with in the "Paste your code here" section.
 2. Select an option, such as "Code Translation" or "Debug Your Code".
 3. Click "Generate Solution" to get the AI-generated code and explanation.
+   
+![](https://github.com/shubhendu-ghosh-DS/PairProAI/blob/main/img/Screenshot%202024-06-27%20111535.png?raw=true)
+![](https://github.com/shubhendu-ghosh-DS/PairProAI/blob/main/img/Screenshot%202024-06-27%20111554.png?raw=true)
 
 ## Configuration
 PairProAI comes with a basic configuration that can be adjusted to your preferences. The configuration file is located at `.streamlit/config.toml`. By default, the theme is set to a light base with a primary color of `#00dba8`.

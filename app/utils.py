@@ -17,7 +17,7 @@ def create_prompt(code, option, target_language, error=None):
     Please explain changes in JSON format:
     ```{{
         "code": "(your generated code)",
-        "explanation": "(your explanation in markdown format)"
+        "explanation": "(your explanation in markdown format. return with proper heeading, subheading and bulllet point)"
     }}```
     """
 

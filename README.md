@@ -138,7 +138,7 @@ requirements.txt     # Python dependencies
 
 **Author:** Shubhendu Ghosh  
 **Role:** AI/ML Engineer  
-**LinkedIn:** [https://linkedin.com/in/shubhendu-ghosh](https://linkedin.com/in/shubhendu-ghosh)  
+**LinkedIn:** [https://linkedin.com/in/shubhendu-ghosh-ds/](https://www.linkedin.com/in/shubhendu-ghosh-ds/)  
 **Portfolio:** [https://shubhenduportfolio.github.io/](https://shubhenduportfolio.github.io/)
 
 ---

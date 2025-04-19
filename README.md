@@ -17,10 +17,16 @@ This backend receives code snippets and developer intents via HTTP requests and 
 
 ---
 
+## Live demo
+[This](https://shubhendu-ghosh-pairproai.hf.space) is where the APIs are live!
+
+---
+
 ## 📁 Project Structure
 
 ```
 app/
+├── main.py
 ├── routes.py        # API routes (FastAPI endpoints)
 ├── services.py      # Core logic for interacting with Gemini model
 ├── utils.py         # Prompt formatting and response parsing helpers
@@ -77,8 +83,8 @@ requirements.txt     # Python dependencies
 
 1. **Clone the Repository**
    ```bash
-   git clone <repo-url>
-   cd pairproai
+   git clone https://huggingface.co/spaces/shubhendu-ghosh/PairProAI
+   cd PairProAI
    ```
 
 2. **Create a `.env` File**
@@ -93,7 +99,7 @@ requirements.txt     # Python dependencies
 
 4. **Run the App**
    ```bash
-   uvicorn app.routes:router --reload
+   uvicorn app.main:app --reload
    ```
 
 ### Docker Deployment
@@ -133,7 +139,7 @@ requirements.txt     # Python dependencies
 **Author:** Shubhendu Ghosh  
 **Role:** AI/ML Engineer  
 **LinkedIn:** [https://linkedin.com/in/shubhendu-ghosh](https://linkedin.com/in/shubhendu-ghosh)  
-**Portfolio:** [https://huggingface.co/spaces/shubhendu-ghosh-DS/pairproai](https://huggingface.co/spaces/shubhendu-ghosh-DS/pairproai)
+**Portfolio:** [https://shubhenduportfolio.github.io/](https://shubhenduportfolio.github.io/)
 
 ---
 
